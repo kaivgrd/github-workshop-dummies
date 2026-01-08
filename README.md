@@ -1,2 +1,3 @@
 # github-workshop-dummies
-Workshop
+Opplæringsrepo i Workshop 08.01.2026
+
